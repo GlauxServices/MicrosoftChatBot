@@ -52,3 +52,17 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Terraform
+.terraform
+*.terraform.lock.hcl
+*.tfstate*
+*.tfvars
+
+# IDEs
+.idea
+.vs
+
+# Local Files
+*.user
+/config.json

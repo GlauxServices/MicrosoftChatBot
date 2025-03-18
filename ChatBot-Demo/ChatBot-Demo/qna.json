@@ -1,0 +1,137 @@
+{
+  "qna": {
+    "qavalues": [
+      {
+        "op": "add",
+        "value": {
+          "id": 1,
+          "answer": "I'm doing well, thank you.",
+          "questions": [
+            "How are you?",
+            "How are you doing?",
+            "What's up?"
+          ],
+          "source": "Custom Editorial",
+          "metadata": {
+            "author": "Chatbot",
+            "source": "Chatbot"
+          },
+          "dialog": {
+            "prompt": "Hello, how are you?",
+            "displayOrder": 1
+          }
+        }
+      },
+      {
+        "op": "add",
+        "value": {
+          "id": 2,
+          "answer": "I'm a chatbot. I am here to assist you with questions about GlauxServices.",
+          "questions": [
+            "What are you?",
+            "Who are you?",
+            "What is your purpose?",
+            "Hello, my name is",
+            "What do you do?"
+          ],
+          "source": "Custom Editorial",
+          "metadata": {
+            "author": "Chatbot",
+            "source": "Chatbot"
+          },
+          "dialog": {
+            "prompt": "Hello, who are you?",
+            "displayOrder": 2
+          }
+        }
+      },
+      {
+        "op": "add",
+        "value": {
+          "id": 3,
+          "answer": "We are a generalist IT Service Provider, focusing on Cloud Infrastructure and custom software solutions.",
+          "questions": [
+            "What is GlauxServices?",
+            "What does GlauxServices do?",
+            "What services does GlauxServices offer?"
+          ],
+          "source": "Custom Editorial",
+          "metadata": {
+            "author": "Chatbot",
+            "source": "Chatbot"
+          },
+          "dialog": {
+            "prompt": "What is GlauxServices?",
+            "displayOrder": 3
+          }
+        }
+      },
+      {
+        "op": "add",
+        "value": {
+          "id": 4,
+          "answer": "For  service requests, contact service@glauxservices.com. For support on existing products, contact support@glauxservices.com. For all other questions, contact our Help Desk via email at help@glauxservices.com",
+          "questions": [
+            "What is the email address?",
+            "What is the contact email?",
+            "What is your email?",
+            "What is the contact information?",
+            "How do I contact GlauxServices?"
+          ],
+          "source": "Custom Editorial",
+          "metadata": {
+            "author": "Chatbot",
+            "source": "Chatbot"
+          },
+          "dialog": {
+            "prompt": "What is the email address?",
+            "displayOrder": 4
+          }
+        }
+      },
+      {
+        "op": "add",
+        "value": {
+          "id": 5,
+          "answer": "I'm sorry, I don't have that information. You can contact our Help Desk via email at help@glauxservices.com",
+          "questions": [
+            "What is the phone number?",
+            "What is the contact number?"
+          ],
+          "source": "Custom Editorial",
+          "metadata": {
+            "author": "Chatbot",
+            "source": "Chatbot"
+          },
+          "dialog": {
+            "prompt": "What is the phone number?",
+            "displayOrder": 5
+          }
+        }
+      },
+      {
+        "op": "add",
+        "value": {
+          "id": 6,
+          "answer": "If you are unable to resolve your issues here, you can contact our Help Desk via email at help@glauxservices.com.",
+          "questions": [
+
+            "How do I contact support?",
+            "How do I get help?",
+            "How do I get support?",
+            "How can I speak to a person?"
+          ],
+          "source": "Custom Editorial",
+          "metadata": {
+            "author": "Chatbot",
+            "source": "Chatbot"
+          },
+          "dialog": {
+            "prompt": "How do I contact support?",
+            "displayOrder": 6
+          }
+        }
+      }
+    ]
+  }
+}
